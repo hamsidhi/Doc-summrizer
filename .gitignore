@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.streamlit/
+config/
+.env
+.antigravity/
+node_modules/
+dist/
+build/
+*.log

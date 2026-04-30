@@ -1,0 +1,7 @@
+streamlit
+mammoth
+PyPDF2
+groq
+python-docx
+fpdf2
+markdown
